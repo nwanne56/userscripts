@@ -9,8 +9,8 @@
 // @icon         https://d1yg5d5ep3qn10.cloudfront.net/assets/small_logo-a36420f6d100cda6aeb21c64da522058249a9f0537ebd6688139cd6b78cb424d.jpg
 // @require      https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
-// @updateURL    https://raw.githubusercontent.com/nwanne56/userscripts/master/samplefocus-accountfree-downloader.js
-// @downloadURL  https://raw.githubusercontent.com/nwanne56/userscripts/master/samplefocus-accountfree-downloader.js
+// @updateURL    https://raw.githubusercontent.com/nwanne56/userscripts/main/samplefocus-accountfree-downloader.js
+// @downloadURL  https://raw.githubusercontent.com/nwanne56/userscripts/main/samplefocus-accountfree-downloader.js
 // @supportURL   https://github.com/nwanne56/userscripts/issues
 // @grant GM_download
 // ==/UserScript==
