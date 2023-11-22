@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SampleFocus Account-Free Downloader
-// @version      0.1
+// @version      0.2
 // @license      MIT
 // @namespace    https://nwanne.xyz/
 // @description  Alters SampleFocus "Download" button to allow downloads without registration or log-in
